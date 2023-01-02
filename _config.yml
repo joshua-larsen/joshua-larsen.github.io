@@ -9,3 +9,6 @@ plugins:
   
   plugins:
   - jekyll-feed
+
+algolia:
+  application_id: W0NSNG1DC8
