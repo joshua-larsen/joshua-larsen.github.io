@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Blog"
@@ -10,6 +11,10 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: linkedin
+        href: https://linkedin.com/in/joshua-larsen-salesforce
+      - icon: stack-overflow
+        href: https://stackoverflow.com/users/21593536/joshua-l?tab=profile
 format:
   html:
     theme: cosmo
