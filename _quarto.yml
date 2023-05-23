@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://joshua-larsen.github.io/"
   title: "Blog"
   navbar:
     right:
@@ -15,10 +16,20 @@ website:
         href: https://linkedin.com/in/joshua-larsen-salesforce
       - icon: stack-overflow
         href: https://stackoverflow.com/users/21593536/joshua-l?tab=profile
+      - icon: code-wars
+        href: https://www.codewars.com/users/joshualarsen/badges/small
+      - icon: rss
+        href: https://joshua-larsen.github.io/blog/feed.xml
 format:
   html:
     theme: cosmo
     css: styles.css
 
+execute:
+  freeze: auto
+
+listing:
+  contents: posts
+  feed: true
 
 
