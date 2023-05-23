@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile.png
 about:
   template: jolla
   links:
@@ -16,6 +16,12 @@ about:
     - icon: stack-overflow
       text: Stack Overflow
       href: https://stackoverflow.com/users/21593536/joshua-l?tab=profile
+    - icon: code-wars
+      text: Code Wars
+      href: www.codewars.com/r/sdr0pQ
+    - icon: rss
+      text: RSS
+      href: https://joshua-larsen.github.io/blog/feed.xml
 
 ---
 
