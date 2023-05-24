@@ -24,6 +24,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    anchor-sections: true
+    smooth-scroll: true
 
 execute:
   freeze: auto

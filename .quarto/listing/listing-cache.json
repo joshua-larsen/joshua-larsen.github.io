@@ -1,6 +1,15 @@
 {
   "listingMap": {
+    "posts/post-with-code/index.qmd": [
+      "../../posts"
+    ],
+    "posts/welcome/index.qmd": [
+      "../../posts"
+    ],
     "index.qmd": [
+      "posts"
+    ],
+    "about.qmd": [
       "posts"
     ]
   }
